@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid #20C9CA;
+    height: 40%;
+    width: 30%;
+    background-color: #8FD4F4;
+}
+
+.button{
+    background-color: red;
+}
+
+.body{
+    background-color: #96D4E7;
+}
